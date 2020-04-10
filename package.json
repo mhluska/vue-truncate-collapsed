@@ -30,7 +30,7 @@
     "url": "https://github.com/kavalcante/vue-truncate-collapsed/issues"
   },
   "dependencies": {
-    "html-truncate": "^1.2.2"
+    "html-truncate": "github:huang47/nodejs-html-truncate#43c749e2c3bcdd0b8064caf6f27e0addacee7dc6"
   },
   "homepage": "https://github.com/kavalcante/vue-truncate-collapsed#readme",
   "devDependencies": {
